@@ -1,0 +1,12 @@
+﻿  例题5-6团体队列Team Queue.cpp
+C:\vs  c++工作环境\vs创建的项目\算法竞赛入门经典习题\例题5-6团体队列Team Queue.cpp(14,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\vs  c++工作环境\vs创建的项目\算法竞赛入门经典习题\例题5-6团体队列Team Queue.cpp(22,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\vs  c++工作环境\vs创建的项目\算法竞赛入门经典习题\例题5-6团体队列Team Queue.cpp(25,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\vs  c++工作环境\vs创建的项目\算法竞赛入门经典习题\例题5-6团体队列Team Queue.cpp(34,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\vs  c++工作环境\vs创建的项目\算法竞赛入门经典习题\例题5-6团体队列Team Queue.cpp(47,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+  算法竞赛入门经典习题.vcxproj -> C:\vs  c++工作环境\vs创建的项目\算法竞赛入门经典习题\Debug\算法竞赛入门经典习题.exe

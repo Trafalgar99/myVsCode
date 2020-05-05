@@ -1,0 +1,5 @@
+﻿  对数器.cpp
+C:\vs  c++工作环境\vs创建的项目\pta刷题\对数器.cpp(29,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\vs  c++工作环境\vs创建的项目\pta刷题\对数器.cpp(54,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\vs  c++工作环境\vs创建的项目\pta刷题\对数器.cpp(59,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据

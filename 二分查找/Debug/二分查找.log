@@ -1,0 +1,3 @@
+﻿  main.c
+C:\vs  c++工作环境\vs创建的项目\二分查找\main.c(33,18): warning C4244:  “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  二分查找.vcxproj -> C:\vs  c++工作环境\vs创建的项目\二分查找\Debug\二分查找.exe

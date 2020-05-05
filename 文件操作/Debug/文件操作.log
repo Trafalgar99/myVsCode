@@ -1,0 +1,6 @@
+﻿  main.c
+C:\vs  c++工作环境\vs创建的项目\文件操作\main.c(79,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
+C:\vs  c++工作环境\vs创建的项目\文件操作\main.c(15,7): warning C4101:  “c”: 未引用的局部变量
+C:\vs  c++工作环境\vs创建的项目\文件操作\main.c(16,6): warning C4101:  “ret”: 未引用的局部变量
+  文件操作.vcxproj -> C:\vs  c++工作环境\vs创建的项目\文件操作\Debug\文件操作.exe

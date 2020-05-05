@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\vs  c++工作环境\vs创建的项目\邓公数据结构与算法\main.cpp(72,15): error C2664: “std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::insert(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::initializer_list<_Ty>)”: 无法将参数 1 从“int”转换为“std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>”
+          with
+          [
+              _Ty=int
+          ]
+C:\vs  c++工作环境\vs创建的项目\邓公数据结构与算法\main.cpp(72,15): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+C:\vs  c++工作环境\ide\VC\Tools\MSVC\14.24.28314\include\vector(801,14): message : 参见“std::vector<int,std::allocator<int>>::insert”的声明

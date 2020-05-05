@@ -1,0 +1,4 @@
+﻿  teacher.cpp
+C:\vs  c++工作环境\vs创建的项目\机房预约系统\teacher.h(4,9): warning C4067:  预处理器指令后有意外标记 - 应输入换行符
+C:\vs  c++工作环境\vs创建的项目\机房预约系统\teacher.cpp(120,29): warning C4018:  “<=”: 有符号/无符号不匹配
+  机房预约系统.vcxproj -> C:\vs  c++工作环境\vs创建的项目\机房预约系统\Debug\机房预约系统.exe

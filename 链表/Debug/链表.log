@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\vs  c++工作环境\vs创建的项目\链表\main.cpp(91): warning C4715:  “Find_Node_By_Val”: 不是所有的控件路径都返回值
+  链表.vcxproj -> C:\vs  c++工作环境\vs创建的项目\数据结构\Debug\链表.exe

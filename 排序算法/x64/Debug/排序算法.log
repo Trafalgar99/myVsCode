@@ -1,0 +1,7 @@
+﻿  func.c
+  main.c
+C:\vs  c++工作环境\vs创建的项目\排序算法\main.c(7,18): warning C4244:  “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\vs  c++工作环境\vs创建的项目\排序算法\main.c(6,9): warning C4101:  “begin”: 未引用的局部变量
+  正在生成代码...
+C:\vs  c++工作环境\vs创建的项目\排序算法\main.c(6,16): warning C4101:  “end”: 未引用的局部变量
+  排序算法.vcxproj -> C:\vs  c++工作环境\vs创建的项目\c语言编程练习\x64\Debug\排序算法.exe
